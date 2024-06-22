@@ -1,0 +1,1 @@
+# Deep-learning-of-sentimental-analysis-of-movie-reviews-using-RNN-and-LSTM
